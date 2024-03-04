@@ -12,6 +12,7 @@ namespace Mod3_1302223050
         }
         int angka1, angka2;
 
+        //ignore label1_click
         private void label1_Click(object sender, EventArgs e)
         {
             
@@ -67,6 +68,7 @@ namespace Mod3_1302223050
         {
             angka1 = Convert.ToInt32(label1.Text);
             label1.Text = label1.Text + " + ";
+            label1.Text = "";
         }
 
         private void button11_Click(object sender, EventArgs e)

@@ -14,3 +14,4 @@ D:\mod3\Mod3_1302223050\Mod3_1302223050\obj\Debug\net8.0-windows\refint\Mod3_130
 D:\mod3\Mod3_1302223050\Mod3_1302223050\obj\Debug\net8.0-windows\Mod3_1302223050.pdb
 D:\mod3\Mod3_1302223050\Mod3_1302223050\obj\Debug\net8.0-windows\Mod3_1302223050.genruntimeconfig.cache
 D:\mod3\Mod3_1302223050\Mod3_1302223050\obj\Debug\net8.0-windows\ref\Mod3_1302223050.dll
+D:\mod3\Mod3_1302223050\Mod3_1302223050\obj\Debug\net8.0-windows\Mod3_1302223050.sourcelink.json
